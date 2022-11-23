@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IndianFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Indian Restaurants"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:background="#FFFFFF"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="458dp">
+
+
+        <ImageButton
+            android:id="@+id/Indian1"
+            android:layout_width="124dp"
+            android:layout_height="107dp"
+            android:layout_marginBottom="32dp"
+            android:src="@drawable/indian"
+            app:layout_constraintBottom_toTopOf="@+id/Indian2"
+            app:layout_constraintEnd_toEndOf="@+id/Indian2"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/Indian2" />
+
+        <ImageButton
+            android:id="@+id/Indian2"
+            android:layout_width="124dp"
+            android:layout_height="107dp"
+            android:src="@drawable/indiani"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.561" />
+
+        <ImageButton
+            android:id="@+id/Indian3"
+            android:layout_width="124dp"
+            android:layout_height="107dp"
+            android:layout_marginTop="28dp"
+            android:src="@drawable/indianii"
+            app:layout_constraintEnd_toEndOf="@+id/Indian2"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/Indian2"
+            app:layout_constraintTop_toBottomOf="@+id/Indian2" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
