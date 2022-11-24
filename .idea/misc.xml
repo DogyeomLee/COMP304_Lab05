@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/drawable/btn_style.xml" value="0.329" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/activity_main.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/activity_maps.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/activity_second.xml" value="0.2623376623376623" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/activity_third.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/button_layout.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/fragment_chinese.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/fragment_greek.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/layout/fragment_maps.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ari-c/OneDrive/Desktop/Y3S1/Mobile_App_Development/Assignments/AriCerrahyan_COMP304Sec004_Lab05/AriCerrahyan_COMP304Sec004_Lab05/app/src/main/res/menu/options_menu.xml" value="0.31851851851851853" />
         <entry key="..\:/moblie_Lab05/app/src/main/res/layout/activity_india.xml" value="0.32065217391304346" />
         <entry key="..\:/moblie_Lab05/app/src/main/res/layout/activity_italian.xml" value="0.33" />
         <entry key="..\:/moblie_Lab05/app/src/main/res/layout/activity_main.xml" value="0.33" />
