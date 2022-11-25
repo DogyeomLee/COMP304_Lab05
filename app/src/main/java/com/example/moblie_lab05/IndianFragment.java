@@ -18,7 +18,7 @@ public class IndianFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_indian,container,false);
 
-        Intent intent = new Intent(getActivity(), ThirdActivity.class);
+        Intent intent = new Intent(getActivity(), SecondActivity.class);
 
         ImageButton Indian1 = (ImageButton) view.findViewById(R.id.Indian1);
         ImageButton Indian2= (ImageButton) view.findViewById(R.id.Indian2);

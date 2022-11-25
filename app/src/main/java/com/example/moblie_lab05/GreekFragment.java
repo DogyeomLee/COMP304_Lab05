@@ -20,7 +20,7 @@ public class GreekFragment extends Fragment
     {
         View view = inflater.inflate(R.layout.fragment_greek,container,false);
 
-        Intent intent = new Intent(getActivity(), ThirdActivity.class);
+        Intent intent = new Intent(getActivity(), SecondActivity.class);
 
         ImageButton Greek1 = (ImageButton) view.findViewById(R.id.Greek1);
         ImageButton Greek2 = (ImageButton) view.findViewById(R.id.Greek2);

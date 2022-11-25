@@ -19,7 +19,7 @@ public class ChineseFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_chinese,container,false);
 
-        Intent intent = new Intent(getActivity(), ThirdActivity.class);
+        Intent intent = new Intent(getActivity(), SecondActivity.class);
 
         ImageButton Chinese1 = (ImageButton) view.findViewById(R.id.Chinese1);
         ImageButton Chinese2= (ImageButton) view.findViewById(R.id.Chinese2);

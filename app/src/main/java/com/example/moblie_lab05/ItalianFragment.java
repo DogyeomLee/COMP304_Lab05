@@ -19,7 +19,7 @@ public class ItalianFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_italian,container,false);
 
-        Intent intent = new Intent(getActivity(), ThirdActivity.class);
+        Intent intent = new Intent(getActivity(), SecondActivity.class);
 
         ImageButton Italian1 = (ImageButton) view.findViewById(R.id.italian1);
         ImageButton Italian2= (ImageButton) view.findViewById(R.id.italian2);
